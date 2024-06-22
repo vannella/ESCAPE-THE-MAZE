@@ -5,6 +5,7 @@
 ## **Descrição do Código**
 
 Este código foi desenvolvido para a disciplina de Técnicas de Programação 1, onde exploramos a linguagem de programação C para criar um RPG em formato de diálogo. O projeto consiste em um RPG de labirinto, no qual o usuário deve tomar decisões para encontrar a saída.<br>
+<br>
 
 📝Integrantes:
 * Giovana Fernanda
