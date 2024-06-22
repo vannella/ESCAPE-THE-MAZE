@@ -6,21 +6,25 @@
 
 Este código foi desenvolvido para a disciplina de Técnicas de Programação 1, onde exploramos a linguagem de programação C para criar um RPG em formato de diálogo. O projeto consiste em um RPG de labirinto, no qual o usuário deve tomar decisões para encontrar a saída.<br>
 
-### **Estrutura do RPG**
+<br>
+
+---
+
+### **👾 Estrutura do RPG**
 
 * **Tema:** O jogador se encontra em um labirinto e precisa escapar.<br>
 * **Interatividade:** O jogador responde a uma série de 20 perguntas, cada uma com duas alternativas de resposta.<br>
 * **Finais Múltiplos:** O jogo possui três finais distintos, determinados pelas escolhas do jogador ao longo das perguntas.<br>
 
   
-### **Funcionalidades**
+### **🎮 Funcionalidades**
 
 * **Perguntas e Alternativas:** Cada pergunta apresenta duas opções de resposta. As escolhas do jogador influenciam o desenrolar do jogo.<br>
 * **Sistema de Diálogo:** O formato de diálogo permite uma interação imersiva, onde o jogador se sente parte da narrativa do labirinto.<br>
 * **Finalizações Variadas:** Dependendo das respostas dadas, o jogador pode chegar a um de três finais diferentes, adicionando replayability e interesse ao jogo.<br>
 
   
-### **Objetivo Educacional**
+### **✔ Objetivo Educacional**
 
 O principal objetivo deste projeto foi aplicar conceitos de programação em C, tais como:<br>
 
@@ -31,10 +35,14 @@ O principal objetivo deste projeto foi aplicar conceitos de programação em C, 
 
 <br>
 
+---
+
 Este projeto não só aprimorou nossas habilidades técnicas, mas também desafiou nossa criatividade na construção de uma narrativa interativa e envolvente. O resultado é um RPG simples, mas eficaz, que demonstra a aplicação prática dos conceitos aprendidos na disciplina.
 
 
 
-
+<a href="https://github.com/GiovanaMerces">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
+</a>
 
 
