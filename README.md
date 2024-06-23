@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://media1.tenor.com/m/dh4FUOUsnk4AAAAC/maze-game-over.gif" width="80" height="60"> - Escape The Maze - <img src="https://media1.tenor.com/m/dh4FUOUsnk4AAAAC/maze-game-over.gif" width="80" height="60"></h1>
+  <h1><img src="https://media.tenor.com/JfiEuZyOJX4AAAAi/key-turning.gif" width="60" height="60"> Escape The Maze <img src="https://media.tenor.com/JfiEuZyOJX4AAAAi/key-turning.gif" width="80" height="60"></h1>
 </div>
 
 ## **Descrição do Código**
