@@ -52,8 +52,8 @@ Este projeto não só aprimorou nossas habilidades técnicas, mas também desafi
 
 
 
-<a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
-</a>
+  <a href="https://github.com/GiovanaMerces">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/>
+  </a>
 
 
