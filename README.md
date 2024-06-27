@@ -48,12 +48,16 @@ O principal objetivo deste projeto foi aplicar conceitos de programação em C, 
 
 ---
 
-Este projeto não só aprimorou nossas habilidades técnicas, mas também desafiou nossa criatividade na construção de uma narrativa interativa e envolvente. O resultado é um RPG simples, mas eficaz, que demonstra a aplicação prática dos conceitos aprendidos na disciplina.
+### 👍🏻 Este Repositório:
 
+Este projeto não só aprimorou nossas habilidades técnicas, mas também desafiou nossa criatividade na construção de uma narrativa interativa e envolvente. O resultado é um RPG simples, mas eficaz, que demonstra a aplicação prática dos conceitos aprendidos na disciplina.<br>
 
+Meu objetivo ao disponibilizar este código é **compartilhar as ideias e a aprendizagem*** adquiridas ao longo deste projeto. Esperamos que ele sirva de **inspiração** para outros estudantes e desenvolvedores que desejam aprimorar suas habilidades em programação e narrativa interativa. Sinta-se à vontade para explorar, modificar e expandir este projeto. Sua criatividade é o limite!
 
-  <a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/>
-  </a>
+<br>
 
+  <div align="center">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/><a href="https://github.com/GiovanaMerces" >
+    </a>
+  </div>
 
