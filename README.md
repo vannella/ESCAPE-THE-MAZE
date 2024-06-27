@@ -52,7 +52,7 @@ O principal objetivo deste projeto foi aplicar conceitos de programação em C, 
 
 Este projeto não só aprimorou nossas habilidades técnicas, mas também desafiou nossa criatividade na construção de uma narrativa interativa e envolvente. O resultado é um RPG simples, mas eficaz, que demonstra a aplicação prática dos conceitos aprendidos na disciplina.<br>
 
-Meu objetivo ao disponibilizar este código é **compartilhar as ideias e a aprendizagem*** adquiridas ao longo deste projeto. Esperamos que ele sirva de **inspiração** para outros estudantes e desenvolvedores que desejam aprimorar suas habilidades em programação e narrativa interativa. Sinta-se à vontade para explorar, modificar e expandir este projeto. Sua criatividade é o limite!
+Meu objetivo ao disponibilizar este código é **compartilhar as ideias e a aprendizagem** adquiridas ao longo deste projeto. Esperamos que ele sirva de **inspiração** para outros estudantes e desenvolvedores que desejam aprimorar suas habilidades em programação e narrativa interativa. Sinta-se à vontade para explorar, modificar e expandir este projeto. Sua criatividade é o limite!
 
 <br>
 
