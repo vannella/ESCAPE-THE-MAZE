@@ -57,6 +57,7 @@ Meu objetivo ao disponibilizar este código é **compartilhar as ideias e a apre
 <br>
 
   <div align="center">
+   Feito com 💜 pela Vana <br><br>
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/><a href="https://github.com/GiovanaMerces" >
     </a>
   </div>
