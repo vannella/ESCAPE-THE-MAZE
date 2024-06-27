@@ -8,7 +8,7 @@ Este código [Veja aqui](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE/blob/m
 <br>
 
 
-📝Integrantes:
+📝 **Participantes incríveis**:
 * Giovana Fernanda
 * Kaylane Sophia
 * Adailson Fidalgo
