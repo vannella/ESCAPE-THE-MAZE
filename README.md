@@ -15,7 +15,7 @@ Este código [Veja aqui](https://github.com/Vannella/ESCAPE-THE-MAZE/blob/main/m
 
 <br>
 
-👉🏻 Disponível no [Replit](https://replit.com/@Vannella/ESCAPE-THE-MAZE) <br>
+👉🏻 Disponível no [Replit](https://replit.com/@GiovanaMerces/ESCAPE-THE-MAZE) <br>
 
 ✔ Resposta dos caminhos em [Diagrama Miro](https://miro.com/welcomeonboard/THAyajZUU2VvMlBOcm1Bek9STGVxOEMwTDZlUkdydUxkOUV5YlpOdk5qekJSc3JtTDBaVk5BV3pGd2UwTnFERHwzNDU4NzY0NTkzMDYzODc5Nzg5fDI=?share_link_id=728376486309)
 
