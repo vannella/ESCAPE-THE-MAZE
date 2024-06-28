@@ -4,7 +4,7 @@
 
 ## **Descrição do Código**
 
-Este código [Veja aqui](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE/blob/main/main.c) foi desenvolvido para a disciplina de Técnicas de Programação 1, onde exploramos a **linguagem de programação C** para criar um RPG em formato de diálogo. O projeto consiste em um RPG de labirinto, no qual o usuário deve tomar decisões para encontrar a saída.<br>
+Este código [Veja aqui](https://github.com/Vannella/ESCAPE-THE-MAZE/blob/main/main.c) foi desenvolvido para a disciplina de Técnicas de Programação 1, onde exploramos a **linguagem de programação C** para criar um RPG em formato de diálogo. O projeto consiste em um RPG de labirinto, no qual o usuário deve tomar decisões para encontrar a saída.<br>
 <br>
 
 
@@ -15,7 +15,7 @@ Este código [Veja aqui](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE/blob/m
 
 <br>
 
-👉🏻 Disponível no [Replit](https://replit.com/@GiovanaMerces/ESCAPE-THE-MAZE) <br>
+👉🏻 Disponível no [Replit](https://replit.com/@Vannella/ESCAPE-THE-MAZE) <br>
 
 ✔ Resposta dos caminhos em [Diagrama Miro](https://miro.com/welcomeonboard/THAyajZUU2VvMlBOcm1Bek9STGVxOEMwTDZlUkdydUxkOUV5YlpOdk5qekJSc3JtTDBaVk5BV3pGd2UwTnFERHwzNDU4NzY0NTkzMDYzODc5Nzg5fDI=?share_link_id=728376486309)
 
@@ -58,7 +58,7 @@ Meu objetivo ao disponibilizar este código é **compartilhar as ideias e a apre
 
  <div align="center">
    Feito com 💜 pela Vana. <br><br>
-   <a href="https://github.com/GiovanaMerces">
+   <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
 </div>
